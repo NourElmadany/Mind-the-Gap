@@ -97,18 +97,6 @@ pip install -r requirements.txt
 
 <!-- Add the exact commands for source training, CUDA adaptation and DSAN adaptation here. -->
 
-## Citation
-
-If you use this code, please cite:
-
-```bibtex
-@inproceedings{elmenshawy2026mindthegap,
-  author    = {Elmenshawy, Salma and Elmadany, Noureldin},
-  title     = {Mind the Gap: Bridging Domain Shift in Multi-Modal Beam Prediction},
-  booktitle = {<Conference name>},
-  year      = {2026}
-}
-```
 
 ## Acknowledgments
 
