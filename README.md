@@ -1,8 +1,5 @@
 # Mind the Gap: Bridging Domain Shift in Multi-Modal Beam Prediction
 
-Official code for the paper **"Mind the Gap: Bridging Domain Shift in Multi-Modal Beam Prediction"**
-by Salma Elmenshawy and Noureldin Elmadany, Intelligent Systems Laboratory, Arab Academy for Science, Technology and Maritime Transport (AASTMT), Alexandria, Egypt.
-
 ## Overview
 
 Deep learning can predict the best mmWave beam from sensor data and avoid exhaustive beam sweeping. However, a model trained in one deployment scenario often loses accuracy in a new one. This repository adapts a multi-modal beam predictor to an unseen scenario **without target labels**, using two unsupervised domain adaptation (UDA) methods:
